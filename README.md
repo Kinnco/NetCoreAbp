@@ -1,0 +1,2 @@
+# NetCoreAbp
+NetCoreAbp-Angular
